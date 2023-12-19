@@ -1,7 +1,7 @@
 argparse==1.2.1
 dpkt==1.8.7
 netaddr==0.7.18
-paramiko==2.6.0
+paramiko==3.4.0
 pexpect==4.0.1
 ptyprocess==0.5.1
 pycrypto==2.6.1
